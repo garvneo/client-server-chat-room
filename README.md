@@ -2,7 +2,8 @@
 
 ## Description
 
-This repository contains a simple chat application implemented in Python, facilitating communication between clients and a server over a network. The application consists of two main components: a client-side script (`client.py`) and a server-side script (`server.py`).
+This repository contains a Python chat application uses multithreading and socket programming for efficient communication between clients and a central server. It adheres to best practices, including Ruff for linting and autoformatting. 
+The application consists of two main components: a client-side script (`client.py`) and a server-side script (`server.py`).
 
 ## Features
 
